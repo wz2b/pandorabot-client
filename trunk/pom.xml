@@ -17,10 +17,12 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
+    
     <scm>
         <connection>https://pandorabot-client.googlecode.com/svn/trunk/</connection>
         <developerConnection>https://pandorabot-client.googlecode.com/svn/trunk/</developerConnection>
     </scm>
+
     <build>
         <plugins>
             <plugin>
