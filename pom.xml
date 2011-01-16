@@ -4,7 +4,7 @@
 
     <groupId>com.autofrog.pandorabot</groupId>
     <artifactId>pandorabot-client</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>pandorabot-client</name>
     <url>http://code.google.com/p/pandorabot-client/</url>
     
@@ -19,8 +19,8 @@
     </licenses>
     
     <scm>
-        <connection>scm:svn:https://pandorabot-client.googlecode.com/svn/tags/pandorabot-client-1.0</connection>
-        <developerConnection>scm:svn:https://pandorabot-client.googlecode.com/svn/tags/pandorabot-client-1.0</developerConnection>
+        <connection>scm:svn:https://pandorabot-client.googlecode.com/svn/trunk/</connection>
+        <developerConnection>scm:svn:https://pandorabot-client.googlecode.com/svn/trunk/</developerConnection>
     </scm>
 
     <build>
